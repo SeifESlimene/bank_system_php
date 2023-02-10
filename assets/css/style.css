@@ -1,0 +1,100 @@
+.d-main {
+  background-image: url('../img/bank.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+nav {
+  height: 58px;
+}
+
+.k1 {
+  height: calc(100vh - 58px) !important;
+}
+
+.tr {
+  background: rgba(255, 255, 255, 0.5);
+}
+
+.ebkstyle2 {
+  color: #f64427;
+}
+.ebkstyle2 {
+  font-family: 'Open Sans';
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.panel-body {
+  padding: 15px;
+}
+
+.panel {
+  -moz-box-shadow: 0 0 3px 0 #cfcfcf;
+  -webkit-box-shadow: 0 0 3px 0 #cfcfcf;
+  -o-box-shadow: 0 0 3px 0 #cfcfcf;
+  box-shadow: 0 0 6px 0 #cfcfcf;
+  border: 1px solid #cfcfcf;
+}
+.panel {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.panel-default {
+  border-color: #ddd;
+}
+.panel {
+  margin-bottom: 22px;
+  background-color: #fff;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+}
+
+.chiffre.btn-login.btn.btn-default {
+  color: #333;
+  background-color: #e4e4e4;
+}
+
+.btn-login {
+  width: 40px;
+  margin: 5px 10px 5px 0;
+  float: right;
+}
+
+.bootstrap-select > .dropdown-toggle,
+.bootstrap-select > .dropdown-menu,
+.form-control,
+.btn.btn-default {
+  border-color: #abb6b7;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #f64427;
+  border-color: #f64427;
+}
+
+.col-xs-4 {
+  width: 33.33333333%;
+}
+
+.iconLoginCancel {
+  color: #f64427;
+}
+
+.subcontainer {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 10px;
+}
+.subcontainer,
+.pdp {
+  margin-top: 100px;
+  display: none;
+}
+
+.f5 {
+  width: 100%;
+}
